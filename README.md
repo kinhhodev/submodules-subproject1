@@ -6,3 +6,6 @@ Description 1
 
 ## Feature 2
 Description 2
+
+## Feature 3
+Description 3
